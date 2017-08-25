@@ -1,6 +1,6 @@
 :set tabstop=4
-:set shiftwidth=4
-:set expandtab
+:set shiftwidth=0
+" :set noexpandtab
 
 " Need to set shell for Conque GDB
 :set shell=/bin/bash
