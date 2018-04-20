@@ -15,3 +15,18 @@ xmodmap -e "keycode 171 = F9"
 xmodmap -e "keycode 121 = F10"
 xmodmap -e "keycode 122 = F11"
 xmodmap -e "keycode 123 = F12"
+
+# Remap numpad as well, that don't work either
+xmodmap -e "keycode 87 = 1"
+xmodmap -e "keycode 88 = 2"
+xmodmap -e "keycode 89 = 3"
+
+
+xmodmap -e "keycode 83 = 4"
+xmodmap -e "keycode 84 = 5"
+xmodmap -e "keycode 85 = 6"
+
+
+xmodmap -e "keycode 79 = 7"
+xmodmap -e "keycode 80 = 8"
+xmodmap -e "keycode 81 = 9"
