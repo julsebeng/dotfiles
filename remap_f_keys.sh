@@ -30,3 +30,5 @@ xmodmap -e "keycode 85 = 6"
 xmodmap -e "keycode 79 = 7"
 xmodmap -e "keycode 80 = 8"
 xmodmap -e "keycode 81 = 9"
+
+xmodmap -e "keycode 90 = 0"
